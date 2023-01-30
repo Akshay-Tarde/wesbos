@@ -1,3 +1,6 @@
 [submodule "dom-cardio"]
 	path = dom-cardio
 	url = https://github.com/Akshay-Tarde/dom-cardio.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/Akshay-Tarde/etch-a-sketch.git
