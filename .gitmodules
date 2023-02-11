@@ -10,3 +10,6 @@
 [submodule "sarcastic-text"]
 	path = sarcastic-text
 	url = https://github.com/Akshay-Tarde/sarcastic-text.git
+[submodule "shopping-form"]
+	path = shopping-form
+	url = https://github.com/Akshay-Tarde/shopping-form.git
