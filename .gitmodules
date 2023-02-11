@@ -7,3 +7,6 @@
 [submodule "face-detection"]
 	path = face-detection
 	url = https://github.com/Akshay-Tarde/face-detection.git
+[submodule "sarcastic-text"]
+	path = sarcastic-text
+	url = https://github.com/Akshay-Tarde/sarcastic-text.git
