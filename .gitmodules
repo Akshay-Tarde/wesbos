@@ -13,3 +13,6 @@
 [submodule "shopping-form"]
 	path = shopping-form
 	url = https://github.com/Akshay-Tarde/shopping-form.git
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/Akshay-Tarde/gallery.git
